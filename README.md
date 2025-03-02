@@ -12,7 +12,7 @@ Welcome to the official repository of **CleanTechCoin ($CTC)**, the cryptocurren
 - **Token Name**: CleanTechCoin  
 - **Symbol**: $CTC  
 - **Blockchain**: Solana  
-- **Decimals**: 9  
+- **Decimals**: 6  
 - **Contract Address**: `7BoJYvNdL6PDby5bNsQNorBVKqEixWUPdTNngTTrpump`  
 
 ## 🌎 Official Links  
